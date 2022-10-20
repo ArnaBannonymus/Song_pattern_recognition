@@ -1,8 +1,6 @@
 # Automatic Song Structure Detection Program
-### Stacey Chao, Vivian Chen, Karen Bao
-### EECS 352 Final Project
-
-https://vivianschen.github.io/ASSDP/
+### Stacey Chao, Arnab bhowmik
+### IEEE global Journal 2021
 
 
 ## Dependencies
