@@ -1,5 +1,5 @@
 # Automatic Song Structure Detection Program
-### Stacey Chao, Arnab bhowmik
+### Stacey Chao, Arnab Bhowmik
 ### IEEE global Journal 2021
 
 
